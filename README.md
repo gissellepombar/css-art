@@ -1,7 +1,6 @@
 # Day 1: Rocket Animation
 
-![Watch Trailer] (./C)
-[![Watch Trailer](./Content/Screen%20Recording%202023-01-31%20at%2011.20.34%20PM.mov)]
+[![Watch Trailer](./Content/giphy-rocket-animation.mp4)]
 
 ### Description 
     Created an animation of a rocketship in orbit of moon only using HTML and CSS.
